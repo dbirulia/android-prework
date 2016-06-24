@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented prework:
 
-<img src='http://' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://s31.postimg.org/h4jng7v3f/Android_Test.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
