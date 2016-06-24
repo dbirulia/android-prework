@@ -10,17 +10,17 @@ Time spent: **6** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] User can **successfully add and remove items** from the todo list
-* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list.
-* [ ] User can **persist todo items** and retrieve them properly on app restart
+* [x] User can **successfully add and remove items** from the todo list
+* [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list.
+* [x] User can **persist todo items** and retrieve them properly on app restart
 
 The following **optional** features are implemented:
 
-* [ ] Persist the todo items [into SQLite](http://guides.codepath.com/android/Persisting-Data-to-the-Device#sqlite) instead of a text file
-* [ ] Add support for completion due dates for todo items
-* [ ] Use a [DialogFragment](http://guides.codepath.com/android/Using-DialogFragment) to Delete Item
-* [ ] Add support for selecting the priority of each todo item and display in listview item
-* [ ] Tweak the style improving the UI / UX, play with colors, images or backgrounds
+* [x] Persist the todo items [into SQLite](http://guides.codepath.com/android/Persisting-Data-to-the-Device#sqlite) instead of a text file
+* [x] Add support for completion due dates for todo items
+* [x] Use a [DialogFragment](http://guides.codepath.com/android/Using-DialogFragment) to Delete Item
+* [x] Add support for selecting the priority of each todo item and display in listview item
+* [x] Tweak the style improving the UI / UX, play with colors, images or backgrounds
 
 ## Android Bootcamp Prework assinment
 
@@ -30,7 +30,7 @@ Here's a walkthrough of implemented prework:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had a lot of fun developing this test assignment. Haven't written in Java for a few years, was writing lots of Python code recently.
 
 ## License
 
